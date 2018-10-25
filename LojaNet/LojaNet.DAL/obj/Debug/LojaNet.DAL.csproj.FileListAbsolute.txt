@@ -1,0 +1,15 @@
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\LojaNet.DAL.dll.config
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\LojaNet.DAL.dll
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\LojaNet.DAL.pdb
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\LojaNet.Models.dll
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\LojaNet.Models.pdb
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\LojaNet.Models.dll.config
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\LojaNet.DAL.csprojAssemblyReference.cache
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\LojaNet.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\LojaNet.DAL.csproj.CopyComplete
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\LojaNet.DAL.dll
+C:\Users\Victor Rodrigues\Desktop\Cursos\Impacta\C#\Modulo 2\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\LojaNet.DAL.pdb
